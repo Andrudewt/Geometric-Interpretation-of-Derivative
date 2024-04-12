@@ -1,4 +1,4 @@
-### Target: Plot tangents lines on the function axis at points of x0 = 1, 2, 4, 6, 8 using derivatives.
+### Target: Plot tangent lines on the function axis at points of x0 = 1, 2, 4, 6, 8 using derivatives.
 
 the function: f(x) = x**2 / 10
 the function derivative f'(x) = 0.2 * x
