@@ -1,7 +1,7 @@
 ### Target: Plot tangent lines on the function axis at points of x0 = 1, 2, 4, 6, 8 using derivatives.
 
 the function: f(x) = x**2 / 10 <br />
-the function derivative f'(x) = 0.2 * x <br />
+the function's derivative f'(x) = 0.2 * x <br />
 
 tangent equation: y - y0 = f'(x0) * (x - x0) <br />
 narmal axis equation: y - y0 = (-1 / f'(x0)) * (x - x0) <br />   
